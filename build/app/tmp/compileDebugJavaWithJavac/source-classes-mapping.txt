@@ -1,4 +1,0 @@
-io/flutter/plugins/GeneratedPluginRegistrant.java
- io.flutter.plugins.GeneratedPluginRegistrant
-com/noman/flutter_live_template/BuildConfig.java
- com.noman.flutter_live_template.BuildConfig
