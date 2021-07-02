@@ -1,0 +1,4 @@
+#Thu Jul 01 12:38:33 PKT 2021
+base.0=/Volumes/Noman/AndroidStudioProjects/WorkspaceFlutter/flutter_live_template/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
